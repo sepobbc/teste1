@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asdasdas sd
+=======
+asdasd
+>>>>>>> parent of 2909c20... 'terceiro_commit'
